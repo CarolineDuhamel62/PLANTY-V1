@@ -27,6 +27,11 @@
     -ms-flex-align: center;
     align-items: center;
 }
+/*ajout Caroline */
+
+.wpcf7-form input[type="submit"] {
+    background-color: #E0B9B4;
+}
 
 /*--------------------------------------------------------------
 Navigation
